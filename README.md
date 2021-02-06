@@ -1,0 +1,2 @@
+# gg-wp
+glav proekt
